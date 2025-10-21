@@ -4,7 +4,7 @@
 { text: "Don't change the subject" },
 { text: "I'm heavy on your love" },
 { text: "I missed that train" },
-{ text: "New York City, it rains" },
+{ text: "New York City, it rain" },
 { text: "Fly to East L.A. in big jet planes" },
 { text: "You know you're on my mind?" },
 { text: "And if the world don't break" },
